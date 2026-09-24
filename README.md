@@ -32,12 +32,12 @@ The datasets include information such as:
 
 ### Requirements
 
-- Python 3.x
-- Jupyter Notebook or JupyterLab
+- Python 3.11
+- Jupyter Notebook
 - pandas
 - NumPy
-- Matplotlib and/or Seaborn
-- Scikit-learn, if running the modelling sections of the notebook
+- Matplotlib
+- Scikit-learn
 
 ### Run the notebook
 
